@@ -10,3 +10,6 @@
 ####  Building a sequence to sequence neural machine translation (NMT) model .
 ####  Implemented LSTM with attention for Language translation from Urdu to English.
 ####  Data set can be downloaded from http://www.manythings.org/anki/deu-eng.zip/urd-eng.zip
+
+## Model Architecture:
+https://user-images.githubusercontent.com/64551550/85228592-9a986d80-b3fd-11ea-9f7c-1a844962a115.png
