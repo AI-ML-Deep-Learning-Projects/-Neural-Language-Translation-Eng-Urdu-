@@ -14,5 +14,5 @@
 ## Model Architecture:
 
 <img src="https://user-images.githubusercontent.com/64551550/85228592-9a986d80-b3fd-11ea-9f7c-1a844962a115.png" alt="Screen"
-	title="Screen" width="450" height="390" />
+	title="Screen" width="550" height="390" />
 
