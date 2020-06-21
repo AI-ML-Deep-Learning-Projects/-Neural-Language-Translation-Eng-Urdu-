@@ -2,8 +2,8 @@
 
 ## Implemented LSTM and attention model.
 
-###  Used Keras, Tensorflow libraries (Python) for my implementation.
-###  Used encoder-decoder model in sequence to sequence modeling.
+####  Used Keras, Tensorflow libraries (Python) for my implementation.
+####  Used encoder-decoder model in sequence to sequence modeling.
 
 ## Details:
 
